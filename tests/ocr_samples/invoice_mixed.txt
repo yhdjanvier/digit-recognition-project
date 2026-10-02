@@ -1,0 +1,5 @@
+INVOICE No. 004871
+Date: 02/10/2026
+Item: Laptop charger x3 = 75.00
+Item: USB cable x10 = 32.50
+TOTAL DUE: 107.50 (paid by cash)

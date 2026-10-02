@@ -1,0 +1,49 @@
+{
+  "mean_cer": 0.008292214912280702,
+  "mean_wer": 0.039745278875713656,
+  "pages": [
+    {
+      "file": "invoice_mixed.png",
+      "cer": 0.0078125,
+      "wer": 0.043478260869565216,
+      "seconds": 836.6,
+      "recognised": "INVOICE No. 004871\nDate: 02/10/2026\nItem: Laptop charger x3 = 75.00\nItem: USB cable xl0 = 32.50\nTOTAL DUE: 107.50 (paid by cash)"
+    },
+    {
+      "file": "invoice_mixed_degraded.png",
+      "cer": 0.015625,
+      "wer": 0.043478260869565216,
+      "seconds": 1.8,
+      "recognised": "INVOICE No. 004871\nDate: 02/10/2026\nItem: Laptop charger x3 = 75.00\nItem: USB cable xlO = 32.50\nTOTAL DUE: 107.50 (paid by cash)"
+    },
+    {
+      "file": "paragraph.png",
+      "cer": 0.010526315789473684,
+      "wer": 0.06060606060606061,
+      "seconds": 1.7,
+      "recognised": "The committee met on 14 March 2026 to review\nthe annual budget: Members agreed that spending\non training should increase by 8 percent; and that\na final report will be submitted next quarter."
+    },
+    {
+      "file": "paragraph_degraded.png",
+      "cer": 0.015789473684210527,
+      "wer": 0.09090909090909091,
+      "seconds": 1.5,
+      "recognised": "The committee met on 14 March 2026 to review\nthe annual budget Members agreed that spending\non training should increase by 8 percent; and that\na final report will be submitted next quarter:"
+    },
+    {
+      "file": "report_numbers.png",
+      "cer": 0.0,
+      "wer": 0.0,
+      "seconds": 2.1,
+      "recognised": "Monthly Sales Report 2026\nRegion North: 1,250 units\nRegion South: 980 units\nRegion East: 2,415 units\nTotal revenue: $48,720.50\nGrowth rate: 12.5%"
+    },
+    {
+      "file": "report_numbers_degraded.png",
+      "cer": 0.0,
+      "wer": 0.0,
+      "seconds": 3.0,
+      "recognised": "Monthly Sales Report 2026\nRegion North: 1,250 units\nRegion South: 980 units\nRegion East: 2,415 units\nTotal revenue: $48,720.50\nGrowth rate: 12.5%"
+    }
+  ],
+  "engine": "EasyOCR (pretrained)"
+}

@@ -1,0 +1,28 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Temporary training checkpoints (the FINAL model is committed on purpose)
+models/checkpoints/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Logs / local test files
+*.log
+test_page.*

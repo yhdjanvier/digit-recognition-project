@@ -1,0 +1,6 @@
+Monthly Sales Report 2026
+Region North: 1,250 units
+Region South: 980 units
+Region East: 2,415 units
+Total revenue: $48,720.50
+Growth rate: 12.5%

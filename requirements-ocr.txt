@@ -1,0 +1,4 @@
+# Extra packages for Document mode (pretrained OCR). Install AFTER requirements.txt:
+#   pip install -r requirements-ocr.txt
+easyocr>=1.7
+pymupdf>=1.23
